@@ -3,5 +3,6 @@
 * No internet connection 
 * No iPhone
 * Direct Bluetooth connection
+
 ---------------------
 [Privacy](/privacy.md)
